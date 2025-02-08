@@ -3,11 +3,13 @@
 <h1 align="center">Hi 👋, I'm Suraj Mondal</h1>
 <h3 align="center">I am a passionate Backend Developer specializing in Java and Spring Boot.</h3>
 
-<p align="center">
-  <a href="https://type.link/mondalsuroj386" target="_blank">
-   My Portfolio!
-  </a>
-</p>
+- 🌱 Exploring :- **Spring Boot**
+
+- 👨‍💻Portfolio Link :-  <a href="https://type.link/mondalsuroj386" target="_blank"> My Portfolio! </a>
+
+- 📫 How to reach me :- **sm.surojmondal@gmail.com**
+
+
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
