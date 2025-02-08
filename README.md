@@ -4,7 +4,7 @@
 <h3 align="center">I am a passionate Backend Developer specializing in Java and Spring Boot.</h3>
 
 <p align="center">
-  <a href="https://type.link/mondalsuroj386" target="blank">
+  <a href="https://type.link/mondalsuroj386" target="_blank">
    My Portfolio!
   </a>
 </p>
@@ -22,19 +22,19 @@
 <table align="center" border="1" cellspacing="5" cellpadding="10">
   <tr>
     <td align="center">
-      <a href="https://linkedin.com/in/suraj-mondal-134a06298/" target="blank">
+      <a href="https://linkedin.com/in/suraj-mondal-134a06298/" target="_blank">
         <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="50"/>
         <br><b>LinkedIn</b>
       </a>
     </td>
     <td align="center">
-      <a href="https://instagram.com/sm.suraj__/" target="blank">
+      <a href="https://instagram.com/sm.suraj__/" target="_blank">
         <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" width="50"/>
         <br><b>Instagram</b>
       </a>
     </td>
     <td align="center">
-      <a href="https://auth.geeksforgeeks.org/user/sm1suraj3tyg/" target="blank">
+      <a href="https://auth.geeksforgeeks.org/user/sm1suraj3tyg/" target="_blank">
         <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="GeeksforGeeks" width="50"/>
         <br><b>GeeksforGeeks</b>
       </a>
