@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Suraj Mondal</h1>
 <h3 align="center">I am a passionate Backend Developer specializing in Java and Spring Boot.</h3>
 
-- 🌱 Exploring :- **Spring Boot**
+- 🌱 Exploring :- **Backend Developer**
 
 - 👨‍💻Portfolio Link :-  <a href="https://type.link/mondalsuroj386" target="_blank"> My Portfolio! </a>
 
