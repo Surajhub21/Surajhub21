@@ -4,7 +4,7 @@
 <h3 align="center">I am a passionate Backend Developer specializing in Java, Spring Boot, and scalable microservices architecture.</h3>
 
 - 🌱 Currently Exploring :- **Spring AI, LangChain4j, Cloud & Real-time Systems**
-- 👨‍💻 Portfolio Link :-  <a href="https://type.link/mondalsuroj386" target="_blank"> My Portfolio! </a>
+- 👨‍💻 Portfolio Link :-  <a href="https://surajhub21.github.io/resume/" target="_blank"> My Portfolio! </a>
 - 📫 How to reach me :- **sm.surojmondal@gmail.com**
 
 ---
